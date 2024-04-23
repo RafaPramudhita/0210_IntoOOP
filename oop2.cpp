@@ -28,5 +28,9 @@ class bangunDatar{
 };
 
 int main() {
-	
+	bangunDatar pp; // dekslarasi objek dari class bangunDatar
+	pp.input();
+	pp.display();
+
+	return 0;
 }
